@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="}RE4=ED!D7o(MsY**2DC" x="11" y="-171"><statement name="HANDLER"><block type="device_print_message" id="x6eu[.QEHj6%c/`(:nN="><value name="text"><shadow type="text" id="O{?S_by$LM;UN#-01*($"><field name="TEXT">racing</field></shadow></value></block></statement></block><block type="device_button_event" id="!V{vJKO*vyOYVH[C6]D-" x="260" y="-157"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="~d:wwR|-d}8m|*%q,9:O"><field name="LEDS">`
+        . # # . . 
+        . . . # . 
+        . . # . . 
+        . . . # . 
+        . # # . .
+        `</field></block></statement></block><block type="device_button_event" id="0R]H6+Gu%@gifvPwz;j!" x="532" y="-159"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="=suH}yU]]CznMO_Kss$b"><field name="LEDS">`
+        . # # . . 
+        . . # . . 
+        . # . . . 
+        . # # . . 
+        . . . . .
+        `</field></block></statement></block><block type="device_button_event" id="}o02kY-C#bMDjJqE7k3l" x="-27" y="10"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_print_message" id="!I^{F;Rjkh]7aAiJuzU,"><value name="text"><shadow type="text" id="bBG!4S-dXH!IT08e$iNf"><field name="TEXT">GO!</field></shadow></value></block></statement></block></xml>
